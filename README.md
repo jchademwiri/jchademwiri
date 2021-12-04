@@ -1,4 +1,4 @@
-### Hi there 👋 thanks for stopping by, this is Jacob from Zimbabwe, base in South Africa.
+### Hi there 👋 thanks for stopping by, this is **Jacob** from Zimbabwe, base in South Africa. I am a Front-End Web Developer.
 
 <!--
 **jchademwiri/jchademwiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
