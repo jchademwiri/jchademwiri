@@ -3,11 +3,11 @@
 
 
 <img alt="Jacob Chademwiri" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jchademwiri&theme=algolia&show_icons=true" />
-<img alt="Jacob Chademwiri" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchademwiri&layout=compact" />
+<img alt="Jacob Chademwiri" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchademwiri&layout=compact" />
 
-<br/>
-<br/>
-## Languages I have worked with.
+
+
+
 
 
 <img alt="HTML" align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
