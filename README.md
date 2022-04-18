@@ -2,8 +2,8 @@
 
 
 
-<img alt="Jacob Chademwiri" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=jchademwiri&theme=algolia&show_icons=true" />
-<img alt="Jacob Chademwiri" align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchademwiri&layout=compact" />
+<img alt="Jacob Chademwiri" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jchademwiri&theme=algolia&show_icons=true" />
+<img alt="Jacob Chademwiri" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchademwiri&layout=compact" />
 
 
 ## Languages I have worked with.
