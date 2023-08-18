@@ -1,4 +1,4 @@
-### Hi there 👋 thanks for stopping by, this is **Jacob** from Zimbabwe, base in South Africa. I am a Front-End Web Developer.
+### Hi there 👋 thanks for stopping by, this is **Jacob** from Zimbabwe, based in South Africa. I am a Front-End Web Developer.
 
 
 
