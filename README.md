@@ -28,7 +28,7 @@ Front-End Web Developer based in South Africa 🇿🇦. I build responsive, acce
 
 ## Featured projects
 - [PMG Hub](https://github.com/jchademwiri/pmg-hub) — Central dashboard for PMG tools and resources. (Replace link/description with the real repo and a one-line summary.)
-- [PMG Tracke](https://github.com/jchademwiri/pmg-tracke) — Tracker for PMG activities and progress. (Replace link/description with the real repo and a one-line summary.)
+- [PMG Tracker](https://github.com/jchademwiri/pmg-tracke) — Tracker for PMG activities and progress. (Replace link/description with the real repo and a one-line summary.)
 - [Project Two](https://github.com/jchademwiri/project-two) — short description and notable features.
 
 ## Work / Contact
