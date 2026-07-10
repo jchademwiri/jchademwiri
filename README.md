@@ -3,8 +3,8 @@
 Front-End Web Developer based in South Africa 🇿🇦. I build responsive, accessible, and performant web applications using modern JavaScript frameworks.
 
 <p align="center">
-  <img alt="Jacob's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jchademwiri&theme=algolia&show_icons=true" width="49%" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchademwiri&layout=compact" width="49%" />
+  <img alt="Jacob's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jchademwiri&theme=algolia&show_icons=true&hide_border=true" width="48%" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchademwiri&layout=compact&theme=algolia&hide_border=true" width="48%" />
 </p>
 
 ## About me
