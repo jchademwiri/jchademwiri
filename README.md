@@ -4,7 +4,7 @@ Front-End Web Developer based in South Africa 🇿🇦. I build responsive, acce
 
 <p align="center">
   <img alt="Jacob's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jchademwiri&theme=algolia&show_icons=true&hide_border=true" width="48%" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchademwiri&layout=compact&theme=algolia&hide_border=true" width="48%" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jchademwiri&layout=compact&theme=algolia&hide_border=true" width="48%" />
 </p>
 
 ## About me
@@ -27,9 +27,9 @@ Front-End Web Developer based in South Africa 🇿🇦. I build responsive, acce
 </p>
 
 ## Featured projects
-- [PMG Hub](https://github.com/jchademwiri/pmg-hub) — Central dashboard for PMG tools and resources. (Replace link/description with the real repo and a one-line summary.)
-- [PMG Tracker](https://github.com/jchademwiri/pmg-tracke) — Tracker for PMG activities and progress. (Replace link/description with the real repo and a one-line summary.)
-- [Project Two](https://github.com/jchademwiri/project-two) — short description and notable features.
+- [PMG Hub](https://github.com/jchademwiri/pmg-hub) — Playhouse Media Group monorepo for all PMG web properties and division sites.
+- [PMG Tracker (pmg-tracker-360)](https://github.com/jchademwiri/pmg-tracker-360) — A scalable workspace for tender and PO management (public tracker, admin, docs, shared UI & database packages).
+- [sheq-os](https://github.com/jchademwiri/sheq-os) — An open-source, Markdown-based operating system for Health, Safety, Environment, and Quality (SHEQ) compliance and ISO implementation.
 
 ## Work / Contact
 - Portfolio: https://jacobc.co.za
