@@ -32,10 +32,10 @@ Front-End Web Developer based in South Africa 🇿🇦. I build responsive, acce
 - [Project Two](https://github.com/jchademwiri/project-two) — short description and notable features.
 
 ## Work / Contact
-- Portfolio: https://your-portfolio.example (replace)
-- Email: mailto:your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-linkedin (replace)
-- Twitter: https://twitter.com/yourhandle (optional)
+- Portfolio: https://jacobc.co.za
+- Email: mailto:hello@jacobc.co.za
+- LinkedIn: https://www.linkedin.com/in/jchademwiri
+- Twitter: https://twitter.com/jchademwiri
 
 ## What I’m learning
 - Accessibility (A11y) improvements and keyboard-first UX.
